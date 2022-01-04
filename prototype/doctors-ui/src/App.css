@@ -31,11 +31,11 @@ html,
 }
 
 .preview {
-  max-width: 400px;
+  max-height: 600px;
 }
 
 .preview-container {
-  border: 2px dashed #AAAa;
-  height: 400px;
-  width: 400px;
+  /* border: 2px dashed #AAAa; */
+  /* width: 400px;
+  height: 400px; */
 }
